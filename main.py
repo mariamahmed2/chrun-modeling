@@ -12,3 +12,4 @@ def read_item():
 
 
 # In Terminal "uvicorn mian:app --reload "
+# localhost8000
